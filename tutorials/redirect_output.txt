@@ -1,0 +1,9 @@
+The files in the directory are written bellow.
+append_file.sh
+output.txt
+read_dir.sh
+read_file.sh
+redirect_output_to_file.sh
+redirect_output.txt
+test.txt
+write_file.sh
